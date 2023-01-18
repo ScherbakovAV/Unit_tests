@@ -2,6 +2,11 @@
   <library name="assertj-core-3.23.1">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/libs/assertj-core-3.23.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../2 четверть/5 - Unit тесты (вне четверти)/junit-jupiter-api-5.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../2 четверть/5 - Unit тесты (вне четверти)/junit-jupiter-engine-5.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../2 четверть/5 - Unit тесты (вне четверти)/junit-jupiter-params-5.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../2 четверть/5 - Unit тесты (вне четверти)/junit-platform-suite-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../2 четверть/5 - Unit тесты (вне четверти)/junit-platform-commons-1.9.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

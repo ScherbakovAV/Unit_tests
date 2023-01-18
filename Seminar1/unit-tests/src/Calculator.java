@@ -1,5 +1,16 @@
+import java.util.Scanner;
 
 public class Calculator {
+    private static Scanner scanner = new Scanner(System.in);
+
+    public static void main(String[] args) {
+        int firstOperand = getOperand();
+        int secondOperand = getOperand();
+        char operator = getOperator();
+        int result = calculation(firstOperand, secondOperand, operator);
+        System.out.println("Результат операции: " + result);
+    }
+
     public static int calculation(int firstOperand, int secondOperand, char operator) {
         int result;
 
@@ -26,33 +37,28 @@ public class Calculator {
         return result;
     }
 
-    // HW1.1: Придумайте и опишите (можно в псевдокоде) функцию извлечения корня и
-    // необходимые проверки для него используя граничные случаи
-    public static double squareRootExtraction(double number) {
+    public static char getOperator() { // должен считать значение и вернуть его
+        System.out.println("Введите операцию:");
+        char operation = scanner.next().charAt(0);
+        return operation;
+    }
 
-        //  0
-        //  Отрицательные числа
-        //  Дробные значения корней
-        //  Целые
-
-        double t;
-        double squareRoot = number / 2;
-        do {
-            t = squareRoot;
-            squareRoot = (t + (number / t)) / 2;
+    public static int getOperand() {
+        System.out.println("Введите число:");
+        int operand;
+        if (scanner.hasNextInt()) {
+            operand = scanner.nextInt();
+        } else {
+            System.out.println("Вы допустили ошибку при вводе числа. Попробуйте еще раз");
+            if (scanner.hasNext()) {
+                scanner.next();
+                operand = getOperand();
+            } else {
+                throw new IllegalStateException("Ошибка в вводимых данных");
+            }
         }
-        while ((t - squareRoot) != 0);
-
-        return squareRoot;
-
-        // или просто return Math.sqrt(number);
-    }
-
-    // Нужно написать в калькуляторе метод вычисления суммы покупки со скидкой и проверить его, используя AssertJ
-    // Примерная сигнатура и тело метода:
-    public static double calculatingDiscount(double purchaseAmount, int discountAmount) {
-        // purchaseAmount - сумма покупки
-        // discountAmount - размер скидки
-        return 0; // Метод должен возвращать сумму покупки со скидкой
-    }
+        return operand;}
 }
+
+
+

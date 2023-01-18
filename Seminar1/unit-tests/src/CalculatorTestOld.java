@@ -1,7 +1,7 @@
-import static org.assertj.core.api.Assertions.*;
+import static org.assertj.core.api.Assertions.assertThat;
 // < ---------- Не забудьте добавить библиотеку libs/assertj-core-3.23.1.jar - add as Library...
 
-public class CalculatorTest {
+public class CalculatorTestOld {
     public static void main(String[] args) {
         // Проверка базового функционала с целыми числами:
         if (8 != Calculator.calculation(2, 6, '+')) {
