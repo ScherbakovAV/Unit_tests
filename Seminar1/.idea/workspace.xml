@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dc47d09-eb52-4752-a627-7064d3684432" name="Changes" comment="Hero assert">
-      <change afterPath="$PROJECT_DIR$/../Homework1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework1/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework1/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework1/src/main/java/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework1/src/main/java/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/assertj_core_3_23_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/unit-tests.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/assertj-core-3.23.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/unit-tests/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/unit-tests/CalculatorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/unit-tests/seminars/first/Main$Hero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/unit-tests/seminars/first/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/unit-tests/seminars/first/hw/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/unit-tests/seminars/first/hw/Shop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/unit-tests/seminars/first/hw/ShopTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CalculatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/first/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/first/hw/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/first/hw/Shop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/first/hw/ShopTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="0dc47d09-eb52-4752-a627-7064d3684432" name="Changes" comment="Hero assert" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Geek Brains/Git/Java/Lesson3",
+    "last_opened_file_path": "D:/Geek Brains/Git/Unit_tests/Seminar1",
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
