@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdf687b4-4b0f-4454-92cb-851f86a5d5a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Seminar2/.idea/Seminar2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-tests-HW3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-tests-HW3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-tests-HW3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-tests-HW3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-tests-HW3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-tests-HW3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-tests-HW3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-tests-HW3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-tests-HW3/Test/Ex_2and3/CalculationsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-tests-HW3/Test/coverage/SomeServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-tests-HW3/Test/tdd/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-tests-HW3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-tests-HW3/src/main/java/Ex_2and3/Calculations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-tests-HW3/src/main/java/coverage/SomeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-tests-HW3/src/main/java/tdd/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-tests-HW3/src/main/java/tdd/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-tests-HW3/src/main/java/tdd/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-tests-HW3/target/classes/coverage/SomeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-tests-HW3/target/test-classes/coverage/SomeServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-tests-HW3/unit-tests-HW3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seminar2/unit-tests-HW2/unit-tests-HW2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Seminar2/unit-tests-HW2/unit-tests-HW2.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2KyYxfHhviYITY6rttmOlLeiQ9d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Geek Brains/Git/Unit_tests/Seminar3"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdf687b4-4b0f-4454-92cb-851f86a5d5a1" name="Changes" comment="" />
+      <created>1674948537840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674948537840</updated>
+    </task>
+    <servers />
+  </component>
+</project>
